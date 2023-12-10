@@ -1,0 +1,2 @@
+C:\Users\z'z'x\Desktop\笔记\c++\cpp文件\函数分文件操作\Debug\函数分文件操作.exe
+C:\Users\z'z'x\Desktop\笔记\c++\cpp文件\函数分文件操作\Debug\函数分文件操作.pdb
